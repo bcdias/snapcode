@@ -1,0 +1,15 @@
+:root{
+    --cor-de-fundo: rgb(5, 29, 59);
+
+    --botao-preenchido-normal: rgb(80, 129, 251);
+    --botao-preenchido-hover: rgb(123, 164, 252);
+    --botao-preenchido-foco: rgb(150, 185, 253);
+    --borda-botao-preenchido: rgba(80, 129, 251, .72);
+
+    --botao-transparente-normal: rgba(80, 129, 251, .08);
+    --botao-transparente-hover: rgba(80, 129, 251, .16);
+    --botao-transparente-foco: rgba(80, 129, 251, .24);
+    --borda-botao-transparente: rgba(80, 129, 251, .24);
+    
+
+}

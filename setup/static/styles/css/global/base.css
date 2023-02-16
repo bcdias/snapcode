@@ -1,0 +1,5 @@
+@import "../variaveis/colors.css";
+
+body {
+    background-color: var(--cor-de-fundo);
+}
